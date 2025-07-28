@@ -1,4 +1,4 @@
-📊 Mini Projeto: Data-Driven Insights
+#📊 Mini Projeto: Data-Driven Insights
 Projeto proposto pela trilha de Dados do programa Desenvolve - Grupo Boticário
 Este repositório apresenta um mini projeto de análise exploratória de dados utilizando Python, como parte do Módulo 1 da trilha de Dados. O objetivo é aplicar, na prática, os conhecimentos adquiridos sobre estruturas de dados, manipulação e visualização utilizando bibliotecas como:
 
